@@ -4,7 +4,7 @@ title: MPI Tutorial Introduction
 author: Wes Kendall
 categories: Beginner MPI
 tags:
-translations: zh_cn
+translations: zh_cn,ja_jp
 redirect_from: '/mpi-introduction/'
 ---
 

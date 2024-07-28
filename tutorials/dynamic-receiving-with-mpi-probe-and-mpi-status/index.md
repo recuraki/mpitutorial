@@ -4,7 +4,7 @@ title: Dynamic Receiving with MPI Probe (and MPI Status)
 author: Wes Kendall
 categories: Beginner MPI
 tags: MPI_Get_count, MPI_Probe
-translations: zh_cn
+translations: zh_cn,ja_jp
 redirect_from: '/dynamic-receiving-with-mpi-probe-and-mpi-status/'
 ---
 

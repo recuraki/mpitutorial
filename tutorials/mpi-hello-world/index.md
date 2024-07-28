@@ -3,7 +3,7 @@ layout: post
 title: MPI Hello World
 author: Wes Kendall
 categories: Beginner MPI
-translations: zh_cn
+translations: zh_cn,ja_jp
 tags: MPI_Comm_rank, MPI_Comm_size, MPI_Finalize, MPI_Get_processor_name, MPI_Init
 redirect_from: '/mpi-hello-world/'
 ---
