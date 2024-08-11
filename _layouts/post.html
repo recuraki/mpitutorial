@@ -19,7 +19,10 @@ layout: default
                 output += "<a href=\"{{ page.url }}/zh_cn\">中文版</a>";
             } else if (languages[i] == "es") {
                 output += "<a href=\"{{ site.baseurl }}/{{ page.folder }}/es\">Español</a>";
+            } else if (languages[i] == "ja_jp") {
+                output += "<a href=\"{{ page.url }}/ja_jp\">日本語</a>";
             }
+
         }
 
         return output;

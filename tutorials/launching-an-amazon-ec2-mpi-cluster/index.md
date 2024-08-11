@@ -3,6 +3,7 @@ layout: post
 title: Launching an Amazon EC2 MPI Cluster
 author: Wes Kendall
 categories: Beginner MPI
+translations: ja_jp
 tags:
 redirect_from: '/launching-an-amazon-ec2-mpi-cluster/'
 ---
