@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            MPI Tutorial
+title:            MPI Tutorial(Japanese)
 tagline:
-url:              http://mpitutorial.com
+url:              https://recuraki.github.io/mpitutorial/
 baseurl:          ''
 author:
   name:           Wes Kendall
