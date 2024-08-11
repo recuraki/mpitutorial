@@ -3,7 +3,7 @@ layout: post
 title: MPI Broadcast and Collective Communication
 author: Wes Kendall
 categories: Beginner MPI
-translations: zh_cn
+translations: zh_cn,ja_jp
 tags: MPI_Barrier, MPI_Bcast, MPI_Wtime
 redirect_from: '/mpi-broadcast-and-collective-communication/'
 ---

@@ -4,11 +4,12 @@ title: Performing Parallel Rank with MPI
 author: Wes Kendall
 categories: Beginner MPI
 tags: MPI_Type_size
-translations: zh_cn
+translations: zh_cn,ja_jp
 redirect_from: '/performing-parallel-rank-with-mpi/'
 ---
 
 In the [previous lesson]({{ site.baseurl }}/tutorials/mpi-scatter-gather-and-allgather/), we went over `MPI_Scatter`, `MPI_Gather`, and `MPI_Allgather`. We are going to expand on basic collectives in this lesson by coding a useful function for your MPI toolkit - parallel rank.
+
 
 > **Note** - All of the code for this site is on [GitHub]({{ site.github.repo }}). This tutorial's code is under [tutorials/performing-parallel-rank-with-mpi/code]({{ site.github.code }}/tutorials/performing-parallel-rank-with-mpi/code).
 

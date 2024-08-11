@@ -3,6 +3,7 @@ layout: post
 title: Running an MPI Cluster within a LAN
 author: Dwaraka Nath
 categories: Beginner MPI
+translations: ja_jp
 tags: MPI, Cluster, LAN
 redirect_from: '/running-an-mpi-cluster-within-a-lan'
 ---
